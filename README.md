@@ -1,0 +1,1 @@
+Diese Arbeit beschäftigt sich mit der Integration von Schwarmverhalten und Shader-Visualisierung. Die Integration von Schwarmverhalten ermöglicht es, einer Vielzahl von Objekten ähnnliche Verhaltensweisen zuzuweisen, so lassen sich beispielsweise Fischschwärme simulieren.
